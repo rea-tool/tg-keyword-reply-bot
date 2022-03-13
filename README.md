@@ -2,23 +2,6 @@
   <br>Telegram 关键词自动回复机器人<br>
 </h1>
 
-<p align="center">
-  <a href="https://goreportcard.com/report/github.com/zu1k/tg-keyword-reply-bot">
-    <img src="https://goreportcard.com/badge/github.com/zu1k/tg-keyword-reply-bot?style=flat-square">
-  </a>
-  <a href="https://github.com/zu1k/tg-keyword-reply-bot/actions">
-    <img src="https://img.shields.io/github/workflow/status/zu1k/tg-keyword-reply-bot/Go?style=flat-square" alt="Github Actions">
-  </a>
-  <a href="https://github.com/zu1k/tg-keyword-reply-bot/releases">
-    <img src="https://img.shields.io/github/release/zu1k/tg-keyword-reply-bot/all.svg?style=flat-square">
-  </a>
-  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot?ref=badge_shield">
-      <img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzu1k%2Ftg-keyword-reply-bot.svg?type=shield" alt="FOSSA Status">
-  </a>
-</p>
-
-> **【DEPRECATED】**: 此版本已停止开发
-
 ### 基本命令
 
 - 添加关键词回复规则 `/add 关键词===回复内容` 或者 `/add 关键词1||关键词2===回复内容` 
@@ -39,18 +22,8 @@
 
 [使用说明](https://lgf.im/posts/coding/telegram-keyword-reply-bot/)
 
-## 赞助名单
-
-- [聪聪](https://t.me/congcong) 420元+860元+1664元
-- [小明HR](https://t.me/xuezha) 36元
-- [阿雅](https://t.me/alin0524) 50元 
-- [冠希 科技传媒](https://t.me/a12399999) 39元
-- [🆉🄴🄰🄻🅂🄾🄽](https://t.me/zealson) 50元
-- [古博VPS](https://t.me/guboorg) 200元
-- [LaN](https://t.me/BGdfd) 140元
-- [小壹](https://t.me/fuqianghome) 100元
-- [河南郑州交流群](https://t.me/hnzzs)  88元
-
 ## License
 
 MIT
+
+zu1k i@lgf.im
